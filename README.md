@@ -1,6 +1,6 @@
 # CS4Fun
 
-기술 면접을 대비하기 위한 CS 레포지토리입니다.
+기술 면접을 대비하기 위한 CS 레포지토리입니다.(재밌게 공부하자는 의미로 CS4Fun...:sweat_smile:)
 
 <details>
 <summary>왜 만들었나요?</summary>
