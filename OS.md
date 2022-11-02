@@ -3,6 +3,7 @@
 <details>
 <summary>프로세스와 쓰레드의 차이</summary>
 <div>
+
 ### cpu 관점
 
 쓰레드간 스위칭시 스택 영역만 비워주면 되서 스위칭 비용이 상대적으로 저렴합니다.(캐시 메모리를 비우지 않습니다)
@@ -30,7 +31,7 @@ IPC에는 공유 메모리, 파이프, 소켓 등의 방법이 있습니다.
 
 </div>
 </details>
-
+<hr>
 <details>
 <summary>세마포어와 뮤텍스</summary>
 <div>
@@ -46,7 +47,7 @@ IPC에는 공유 메모리, 파이프, 소켓 등의 방법이 있습니다.
 
 </div>
 </details>
-
+<hr>
 <details>
 <summary>메모리</summary>
 <div>
