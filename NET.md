@@ -100,7 +100,7 @@ fin-ack-fin-ack 이런식으로 진행됩니다.
 
 </div>
 </details>
-
+<hr>
 <details>
 <summary>HTTP와 HTTPS</summary>
 
@@ -173,7 +173,7 @@ HTTPS는 처음에는 비대칭키로 대칭키를 교환, 이후 통신에는 �
 
 </div>
 </details>
-
+<hr>
 <details>
 <summary>쿠키, 세션, 토큰</summary>
 
