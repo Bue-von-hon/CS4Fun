@@ -58,15 +58,45 @@ solid
 </details>
 <hr>
 
-enum
+<details>
+<summary>enum</summary>
+<div>
+자바에서 상수를 표현하는 방식이다.
 
-제너릭
+주의사항으로는 ordinal 요거로 값을 비교하면 안된다.(이건 그냥 선언된 순서다)
+</div>
+</details>
+
+<hr>
+<details>
+<summary>제너릭</summary>
+<div>
+컴파일 시 타입 이레이즈된다.
+
+클래스나 메소드에서 사용할 타입을 외부에서 지정해주는것.
+
+PECS : 값을 제공하면 extends, 값을 사용하면 super
+</div>
+</details>
+<hr>
 
 date, localDate의 차이
 
 io stream 주의 사항
 
-테스트 더블
+<details>
+<summary>테스트 더블</summary>
+<div>
+테스트를 위해 만드는 여러가지 객체 이름이다.(mock이랑 혼용해서 부르기도...)
+
+더미 : 어떤 객체 생성으로만 필요한 친구
+
+스터브 : 객체 생성에 필요한 친구 + 특정한 상태가 설정된 친구
+
+스파이 : 실행 되었는지 아닌지 체크
+
+</div>
+</details>
 
 jpa와 마이바티스의 차이
 
